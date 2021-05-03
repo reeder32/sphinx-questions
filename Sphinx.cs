@@ -10,9 +10,9 @@ namespace RiddleOfTheSphinx
       Console.WriteLine("WELCOME TO THE RIDDLE OF THE SPHINX");
       Riddles riddles = new Riddles();
       Riddle random = riddles.getRandomRiddle();
-     Console.WriteLine(random.Question);
-    Riddle anotherRandom = riddles.getRandomRiddle();
-    Console.WriteLine(anotherRandom.Question);
+      Console.WriteLine(random.Question);
+      Riddle anotherRandom = riddles.getRandomRiddle();
+      Console.WriteLine(anotherRandom.Question);
     }       
   }
 
