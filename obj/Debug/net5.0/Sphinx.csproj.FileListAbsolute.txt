@@ -1,0 +1,15 @@
+/Users/nicholasreeder/Desktop/epicodus/sphinx/obj/Debug/net5.0/Sphinx.csprojAssemblyReference.cache
+/Users/nicholasreeder/Desktop/epicodus/sphinx/obj/Debug/net5.0/Sphinx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasreeder/Desktop/epicodus/sphinx/obj/Debug/net5.0/Sphinx.AssemblyInfoInputs.cache
+/Users/nicholasreeder/Desktop/epicodus/sphinx/obj/Debug/net5.0/Sphinx.AssemblyInfo.cs
+/Users/nicholasreeder/Desktop/epicodus/sphinx/obj/Debug/net5.0/Sphinx.csproj.CoreCompileInputs.cache
+/Users/nicholasreeder/Desktop/epicodus/sphinx/bin/Debug/net5.0/Sphinx.deps.json
+/Users/nicholasreeder/Desktop/epicodus/sphinx/bin/Debug/net5.0/Sphinx.runtimeconfig.json
+/Users/nicholasreeder/Desktop/epicodus/sphinx/bin/Debug/net5.0/Sphinx.runtimeconfig.dev.json
+/Users/nicholasreeder/Desktop/epicodus/sphinx/bin/Debug/net5.0/Sphinx.dll
+/Users/nicholasreeder/Desktop/epicodus/sphinx/bin/Debug/net5.0/ref/Sphinx.dll
+/Users/nicholasreeder/Desktop/epicodus/sphinx/bin/Debug/net5.0/Sphinx.pdb
+/Users/nicholasreeder/Desktop/epicodus/sphinx/obj/Debug/net5.0/Sphinx.dll
+/Users/nicholasreeder/Desktop/epicodus/sphinx/obj/Debug/net5.0/ref/Sphinx.dll
+/Users/nicholasreeder/Desktop/epicodus/sphinx/obj/Debug/net5.0/Sphinx.pdb
+/Users/nicholasreeder/Desktop/epicodus/sphinx/obj/Debug/net5.0/Sphinx.genruntimeconfig.cache
